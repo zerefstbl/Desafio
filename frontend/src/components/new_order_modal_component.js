@@ -72,7 +72,7 @@ function NewOrderModal ({data}) {
                     <Input defaultValue={1} onChange={(e) => setCategoria(e.target.value)} type="select" name="select" id="exampleSelect">
                       {categorias ? categorias.map((categoria) => (
                         <option value={categoria.id}>{categoria.name}</option>
-                      )) : console.log('Meudeus')}
+                      )) : alert('Crie uma categoria, para poder adicionar um novo pedido!')}
                     </Input>
                     <hr />
                     <Input type='date' onChange={(event) => setPrazo(event.target.value)} value={prazo} placeholder="Prazo Final" />
