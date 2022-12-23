@@ -1,5 +1,7 @@
 # Desafio Refera
 
+<img src="site_refera.jpeg" alt="Imagem Refera">
+
 ### Ajustes e melhorias
 
 > O projeto foi feito de maneira autodidata, onde me esforcei para fazer o máximo de código possivel sem depender de ajudas externas! O Front foi feito em React, onde não era minha especialidade mas ja tive um certo convívio:
