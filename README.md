@@ -47,8 +47,8 @@ Para instalar o Frontend do Desafio Refera, siga estas etapas:
 
 ## 📁 Descreva como você estruturaria o banco de dados para contabilizar dados cadastrais da Imobiliária/Empresa/Contato:
 ```
-* 1 - Iria determinar qual seria o objetivo final da base de dados
-* 2 - Organizar e separar todas informações necessárias
+* 1 - Iria determinar qual seria o objetivo final do Bando de Dados
+* 2 - Organizaria e separararia todas informações necessárias
 * 3 - Iria dividir as informações em tabelas
 * 4 - Estabeleceria uma relação entre colunas
 * 5 - Aperfeiçoaria a estrutura
